@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Chrononauts/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Chrononauts/static/js/main.a8436c70.chunk.js",
+    "main.js.map": "/Chrononauts/static/js/main.a8436c70.chunk.js.map",
+    "runtime-main.js": "/Chrononauts/static/js/runtime-main.1a809c85.js",
+    "runtime-main.js.map": "/Chrononauts/static/js/runtime-main.1a809c85.js.map",
+    "static/js/2.03b3edeb.chunk.js": "/Chrononauts/static/js/2.03b3edeb.chunk.js",
+    "static/js/2.03b3edeb.chunk.js.map": "/Chrononauts/static/js/2.03b3edeb.chunk.js.map",
+    "static/js/3.7765a143.chunk.js": "/Chrononauts/static/js/3.7765a143.chunk.js",
+    "static/js/3.7765a143.chunk.js.map": "/Chrononauts/static/js/3.7765a143.chunk.js.map",
+    "index.html": "/Chrononauts/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Chrononauts/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.03b3edeb.chunk.js.LICENSE.txt": "/Chrononauts/static/js/2.03b3edeb.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Chrononauts/static/media/logo.6ce24c58.svg",
+    "static/media/logo.7c69c801.svg": "/Chrononauts/static/media/logo.7c69c801.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a809c85.js",
+    "static/js/2.03b3edeb.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.a8436c70.chunk.js"
+  ]
+}
