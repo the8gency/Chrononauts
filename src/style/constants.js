@@ -4,3 +4,7 @@ export const color = {
   mainDark: '#EC368D',
   mainLight: '#FFF5F5',
 }
+
+export const screensize = {
+  mobile: '750px'
+}
