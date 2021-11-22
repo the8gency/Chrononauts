@@ -1,11 +1,16 @@
 import React from 'react';
 import Nav from './Nav/Nav';
+import { NavWrapper, StyledHeader } from './style';
+import CompanyLogo from '../../../assets/images/logo.svg';
 
 const Header = () => {
     return (
-        <div>
-            <Nav />
-        </div>
+        <StyledHeader>
+            <NavWrapper>
+                <img src={ CompanyLogo } alt="Chrononauts logo" />
+                <Nav />
+            </NavWrapper>
+        </StyledHeader>
     )
 }
 

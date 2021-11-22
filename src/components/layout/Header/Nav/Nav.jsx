@@ -1,10 +1,11 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import * as Paths from '../../../../routes';
+import { StyledNav } from './style';
 
 const Nav = () => {
     return (
-        <nav>
+        <StyledNav>
             <ul>
                 <li>
                     <Link to={ Paths.LANDING }>Home</Link>
@@ -19,7 +20,7 @@ const Nav = () => {
                     <Link to={ Paths.ABOUT }>About</Link>
                 </li>
             </ul>
-        </nav>
+        </StyledNav>
     )
 }
 
