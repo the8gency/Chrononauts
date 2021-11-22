@@ -1,4 +1,6 @@
 export const color = {
-    mainDark: '#EC368D',
-    mainLight: '#FFF5F5',
+  lightblue: '#51E5FF',
+  darkblue: '#440381',
+  mainDark: '#EC368D',
+  mainLight: '#FFF5F5',
 }
